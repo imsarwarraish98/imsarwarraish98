@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarwarraish98
 - 👀 I’m interested in ...doing coding
-- 🌱 I’m currently learning ...malla reddy institute of technology
+- 🌱 I’m currently learning ...java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
